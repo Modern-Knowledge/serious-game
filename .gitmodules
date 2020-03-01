@@ -1,0 +1,12 @@
+[submodule "serious-game-frontend"]
+	path = serious-game-frontend
+	url = https://gitlab.com/modern-knowledge/bachelorarbeit/serious-game-frontend.git
+[submodule "serious-game-backend"]
+	path = serious-game-backend
+	url = https://gitlab.com/modern-knowledge/bachelorarbeit/serious-game-backend.git
+[submodule "serious-game-library"]
+	path = serious-game-library
+	url = https://gitlab.com/modern-knowledge/bachelorarbeit/serious-game-library.git
+[submodule "serious-game-wiki"]
+	path = serious-game-wiki
+	url = https://gitlab.com/modern-knowledge/bachelorarbeit/serious-game-wiki.git
