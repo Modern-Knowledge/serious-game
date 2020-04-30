@@ -36,4 +36,11 @@ npm link serious-game-library
 ./build.sh backend
 ````
 
+### Run Frontend/Backend
+````
+./run.sh frontend
+
+./run.sh backend
+````
+
 
