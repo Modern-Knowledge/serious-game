@@ -1,6 +1,5 @@
 #!/bin/bash
 git checkout $1
-cd ..
 
 cd serious-game-backend
 git checkout $1
