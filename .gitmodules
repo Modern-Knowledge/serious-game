@@ -7,3 +7,6 @@
 [submodule "serious-game-library"]
 	path = serious-game-library
 	url = https://github.com/Modern-Knowledge/serious-game-library.git
+[submodule "serious-game-wiki"]
+	path = serious-game-wiki
+	url = https://github.com/Modern-Knowledge/serious-game-wiki.git
