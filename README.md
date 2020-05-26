@@ -7,7 +7,7 @@ Windows bash is not supported. Use Git Bash for windows to execute the scripts.
 
 ### Clone Project
 ```shell script
-git clone --recurse-submodules https://gitlab.com/modern-knowledge/bachelorarbeit/serious-game
+git clone --recurse-submodules https://github.com/Modern-Knowledge/serious-game
 cd serious-game
 ```
 
